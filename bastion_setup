@@ -1,3 +1,5 @@
+
+#Bastion Variables
 bastion_ami: ami-04ad2567c9e3d7893
 region: us-east-1
 MYIP: 106.207.121.153/32
